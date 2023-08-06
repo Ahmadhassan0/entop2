@@ -37,6 +37,7 @@ body{
     background-color: var(--color-bg);
 }
 
+/* ==================== General style ======================= */
 .container {
     width: var(--container-width-lg);
     margin: 0 auto;
@@ -271,7 +272,7 @@ header {
     font-size: 0.9rem;
 }
 
-/* ==================== Popular Courses ======================= */
+/* ==================== FAQs ======================= */
 .faqs {
     background: var(--color-bg1);
     box-shadow: inset 0 0 3rem rgba(0, 0, 0, 0.5);
@@ -313,7 +314,7 @@ header {
     display: block;
 }
 
-/* ==================== Popular Courses ======================= */
+/* ==================== Testimonials ======================= */
 .testimonials-container {
     overflow-x: hidden;
     position: relative;
@@ -351,12 +352,12 @@ header {
     width: 3rem;
     height: 3rem;
     position: absolute;
-    left: 50%;
+    left: 47%;
     top: -1.5rem;
     transform: rotate(45deg);
 }
 
-/* ==================== Popular Courses ======================= */
+/* ==================== Footer ======================= */
 footer {
     background: var(--color-bg1);
     padding-top: 5rem;
